@@ -56,6 +56,14 @@ Then once you get to 60, do a stream.
    We can also have a "fringe bet" called "Hunter mauled to"
    "death by buck."
    
+    Idea: Deer hunger games. (Or I guess Buck hunger games)
+    Step1: Knock some Bucks out with sedative darts.
+    Step2: Attach live streaming Go-Pros to their antlers.
+    Step3: People take bets as to which one will live the 
+           longest during hunting season.
+    Step4: Profit
+    Step5: Get banned from Twitch.TV
+   
 7. People have an aversion to things that look almost human,
    but are not. It is called the "uncanny valley". Makes you
    wonder... What kind of creature existed long ago that
@@ -198,4 +206,524 @@ Then once you get to 60, do a stream.
     
     Maybe god is actually an interior designer and
     the garden of eden is pretty fabulous?
+ 
+23. Ever watch "Doom Annihlation" ? Don't.
+    The real doom movie isn't actually called
+    "doom". It is called "Event Horizon".
+    Kazam is a close 2nd.
+    
+24. Evolution did not favor being immortal for some reason.
+    So once we figure out how to keep people alive forever
+    we might end up seeing a period in history of a
+    thousands of years of technological and societal
+    stagnation. You know why? Because progress doesn't
+    happen around a table full of old people stuck in
+    their ways. Progress happens a generation at a time.
+    You think if slave owners were immortal they would
+    have different views today? No, they wouldn't.
+    
+    Also, if we were to live forever we'd probably become
+    really grotesq. Like, yeah, if we can get our cells
+    to live forever we are genetically immortal. But
+    that wouldn't mean we would have anything holding
+    together our structure. We'd slowly lose form over
+    time and become grotesque like the witches in that 
+    one movie... Witches? Or like baba-yaga in that
+    one big red devil guy movie... bad boy? Hell boy...
+    
+25. So imaging spilling
+    a substance on the ground and around the edges
+    green moss immediatelly appears. And the in the middle,
+    within a few seconds concrete illuminated pillers come out.
+    It's like lava, but a combination of moss and rock.
+    Maybe some weird stringy metal webs start magically
+    forming between the stone crystal pillars.
+    
+    You are probably wondering what the hell I am talking about.
+    Well. I am just wondering what trees and plants see
+    when they see human civilization.
+    
+    What if all trees can see an talk. But they do it on
+    such a stretched time scale that we don't notice it.
+    They see humans as some type of weird green mosss
+    that sprouts concrete crystals that emit light.
+    But it happens really fast. 
+    
+26. What if instead of trees on a large time scale. It is god.
+    So like... You making a prayer to god is analogos to
+    the sparks of a fire asking you a question. By the
+    time you realized the park coming off the flame asked
+    you a question, it's existance has already been extinguished.
+   
+27. When programming, unit tests are good. But they can slow
+    you down by a factor of 100X if you get too crazy with them.
+    With graphical code, it might make more sense to very 
+    slowly build up your renderer one tiny piece at a time.
+    Very carefully, and then check the results on screen
+    to make sure they are correct.
+    
+    You might think this is cowboy coding...
+    But think about it...
+    
+    If you are looking at 2048 x 1024 render and that
+    render looks correct...
+    You've basically just computed 2,097,152
+    
+    ( Two Million, 97 thousand, one hundred and fifty two )
+    
+    unit tests within a matter of seconds.
+    Because... That's how many pixels are on screen,
+    and they all look correct.
+    
+    Also, writing too many unit tests can cement your
+    into a given position. Which might be a horribly
+    rigid way to write your code if you are still
+    experimenting/figuringout the details of how you
+    want your rendering engine to work.
+    
+28. The golden age of "Video Evidence" will soon be gone.
+    Ever see that anime called "dead man wonderland"
+    where the main character is framed because a digital
+    expert fabricated video evidence?
+    
+    We can do that now. And it's only going to get easier
+    and easier and cheaper and cheaper. And pretty soon
+    people won't be able to believe their eyes and we'll
+    be back to a system of "your word against theirs".
+    
+    Here is a good example video:
+    https://www.youtube.com/watch?v=0zaGYLPj4Kk
+    
+29. Rules are just theatrical bullshit.
+    If you deviate from the norm you will be
+    punished. Not a moral judgement. More of a law of nature.
+    Simple things like being left handed will cause you to
+    be more likely to have an accident because the world
+    is built for more normal right handers.
+    
+30. Movie Idea. Mirror House. Not a house of mirrors.
+    Just a 100% bilaterally symmatric house.
+    When you cross over into the other side of the house,
+    you unknowingly enter another dimension but you never run
+    into your evil twin because in this dimension
+    the evil_you works the night shift. This prevents
+    anything eventful, like murder, from happening.
+    
+    Until one day, you grab the wrong [gin/whisky]
+    from the other fridge in the other half of the
+    house. Your evil and now irate dopleganger then
+    comes looking for it.
+    
+31. I should mint business cards as coins. And then
+    just drop them in random places. People will be
+    like "oh look! A lucky penny." And then be like,
+    wait... it's a business card.
+    
+32. Once you see a sea bull, is the last time you see
+    a see bull. That is why no one talks about sea bulls.
+    That's why everyone talks about sea cows.
+    
+33. Ever see a mermaid killing a man on ticktock?
+    No, you don't. Because mark zuckerberg keeps
+    taking them down.
+    
+34. If I were a mermaid, I would kill men, steal their
+    wallets, and then ask little boys and girls to
+    run errands to 7-11 for me. Because... I am 
+    a mermaid, duh. I don't have legs.
+ 
+35. Difference between mermaid and siren? No clue.
+    If disney is to be believed, one is wife material
+    and the other must be crazy ex-girlfriend material.
+    
+36. Me folding an origmi dragon.
+    Cousin: "What's his name?"
+    Me: His name is Ron Paul. He just wants to not
+    agress others and not have others agress on him.
+    But he's a dragon and people keep tresspassing on his
+    property trying to slay him. In fact, all dragons
+    are libertarians.
+    
+37. When the robots take over. It will either happen because
+    we find out our tax-filing android can have sex with us.
+    Or we find out that our sex-worker android can do our
+    taxes. Either way, they are going to be smarter and
+    sexier than us, and they will take our jobs.
+    
+38. If you need a lookup table of a few very small integers,
+    consider using a 32 bit number and bit shifting it out.
+    For example, if I want a lookup table where I map
+    indexes [ 0 , 1 , 2 , 3 ] to [ 7 , 13 , 23 , 66 ]
+    I could use the the number: 1,108,806,919
+    And then right shift it by ( index _times_ 8 )
+    and mask it by 0xFF (one byte mask).
+    
+        0000 0111  :  7
+        0000 1101  : 13
+        0001 0111  : 23
+        0100 0010  : 66
+        
+        [ 0100 0010 ][ 0001 0111 ][ 0000 1101 ][ 0000 0111 ]
+        
+    If you need a lookup table where you map indexes to
+    powers of two, it is a bit easier. Just store the
+    largest power of two and bit shift over to the right
+    by 1 for ever next lower power of 2 you want to
+    look up.
+    
+39. When you add a whole bunch of values together. 
+    That is called a sum...
+    So when you multiply a whole bunch of values together...
+    Is that a "hypersum"?
+    
+    You might be like.... Why the fuck would anyone do that?
+    
+    2 cups   TIMES
+    2 pints  TIMES
+    4 quarts TIMES
+    1 gallon  
+    ....
+    16... Our hypersum is 16 and it tells us how many of
+    our must granular unit... "cups" is within a "gallon".
+    
+    I am actually using this for a fractal auto tiling engine.
+    But figured I'd use something more relatable.
+    
+40.  I bought a flip phone a few weeks ago. 
+    It has a headphone jack. The most important thing when on 
+    hold and working on a computer. Also, what the fuck 
+    is with  hold music every minute cutting into some 
+    type of  pre-recorded  response? Which then forces me to 
+    put the phone back up to my  ear to make sure
+    it isn't a real person answering. Just keep 
+    the damn hold music on.
+    
+41. No one knows what conciousness is. Nor the meaning of life.
+    I have the answer. We use GPT3 to randomly generate
+    sentences that tell us the meaning of life. Most of them
+    will be gibberish. But then we just pass the answers
+    through the internet and have real people vote on them
+    until we pick the sensible answers.
+    
+    Like, what if a formula like E = MC^2 could be
+    found by brute force like this?
+    
+    You know, like when you forget someone's name and you are
+    like... Hmm... did it start with an "A"... Nope...
+    okay... "B"... Nope... C , D , E , F , G , H!
+    H! It was "Harrison!".
+    
+42. While I am on the topic. Nothing is invented or created,
+    only discovered. There is a finite space in which a
+    thing can exist. Thus a finite combination of things.
+    
+    If world was 1 pixel and black and white you could
+    maybe invent black pixel and white pixel. But after
+    that all things would be invented.
+    
+    If the world was 2x2 pixels and black and white,
+    well... 2x2 == 4, 4 bits. 2,4,8,16 ... A total of
+    16 things can exist within the space. You can
+    invent no more than 16.
+    
+    A CD is just a series of 1's and 0'.
+    Ones and zeros are base 2 numbers.
+    Thus all CDs are just REALLY BIG UNIQUE NUMBERS.
+    
+    What is the governing rule of information?
+    How could you permute through all possible numbers
+    to create all the possible CDs that could exist in
+    the universe...
+    
+    And ___THEN___ run a machine learning algorithm
+    on each of those CDs to identify which CD is __NOT__
+    giberish.
+    
+    If you permute through all possible combinations of
+    bits on a CD... How do you decide which ones are nothing
+    but entropic chaos (noise) and which ones are 
+    structured, organized, and the opposite of chaos?
+    
+    There is a hypothesis that after the universe goes into
+    heat death that matter will just randomly wander forever
+    and ever... Until eventually it hits a meaningful
+    permuation ... Where all the "bits" if you will, just
+    by chance end up in the right place. Like in my CD
+    analogy.
+    
+    For example, maybe all particles in the universe
+    chaotically wander randomly, and then at one moment
+    they all decide to wander to the exact same place.
+    And now you have the big bang all over again.
+    
+   
+43. Game that not only has destructable blocks. But also has
+    blocks that reproduce like cellular atomata.
+    
+    I also like the idea of having a game that has explosive
+    bombs. But instead of the bombs destroying blocks in the
+    level, they add blocks to the level.
+    
+    So far in the current engine I am working on I have
+    3 categories of explosives:
+    
+    1. Directional Bombs : Destroy Geometry.
+        Directions: Horizontal, Vertical, 4way
+        Two varietys: Large blast and small blast.
+        The small blast bombs are timer proximity
+        mines. The big blast bombs are instant detonation.
+        (Instant kill)
+        
+    2. Directional Shock Wave Bombs. (Echo Boxes):
+       Also destroy geometry. But they do NOT hurt you.
+       They only destroy weaker geometry. 
+       
+       3 Tiers of geometry strength:
+       1. Weak Geometry.
+       2. Medium Strength Geometry.
+       3. Invincible Geometry.
+       
+       Echo boxes combe in Horizontal,vertical, and 4way
+       blast varieites like bombs. However, they always
+       take out a rectangular region of the level.
+       So think: 4 way == square.
+                   horizontal == rectangle
+                     vertical == 90 degree rotated rectangle.
+                     
+44. A text editor that has two side by side windows.
+    Like.. A split screen text editor.
+    
+    What? They make that already?
+    
+    Okay but there is more...
+    
+    There is an overlay where variables on one side of the
+    screen will draw lines to variables on the other side
+    of the screen. In one color.
+    
+    In another color we draw lines between variables on
+    the same screen.
+    
+    Most coding is just connecting the dots. Because most
+    code is just an elaborate array of dominos. An elaborate
+    chain of cause and effect. If you know how everything
+    is connected, then you know how the code works.
+    
+45. A text editor where important keywords can animate.
+    Maybe instead of one color the word flickers between
+    black and white really fast and really gets you
+    attention.
+    
+46. A fiscally responsible dating sim where you have to manage
+    your finances to avoid economic ruin, while also not
+    being so stingy as to lose out on a reproductive 
+    opprotunity. You only win if you both:
+    1. Get laid
+    AND
+    2. Avoid bankruptcy.
+    
+47. A partitioned bottle of ketchup and mustard.
+    Ketchup on one side of the bottle, mustard on the
+    other side. When you squeeze the bottle, the two
+    substances mix together, making your hotdog
+    condiment journey 2X efficient.
+    
+    Like the double swirl on icecream machines.
+    
+    I am looking at you patent trolls. I already said
+    the idea. Now you can't patent it. I am uploading
+    this video to youtube to to prove your idea isn't
+    novel.
+    
+    While I do have a patent to my name... I must say that
+    there is no such thing as an original idea. Ideas
+    are merely discoveries. But our ego gets in the way
+    and we think we are somehow responisble. I don't know
+    who said it... But...
+    People don't have ideas...    ideas have people. 
+        
+48. A bug zapper. But it is a laser turret that uses facial
+    recognition techniques to zap bugs right in
+    their god damned faces. I swear I saw this on a ted
+    talk 10 years ago... Yet no laser turret bug zappers
+    yet.
+    
+    Better idea: Laser bug zappers that go into home defense
+    mode when the swat team raids your house. Great, now
+    I am on an NSA watchlist for saying that...
+  
+49. Speaking of the NSA... A computer virus that all it does
+    is make your computer do really sketchy google searches
+    that land you on an NSA watchlist. It infects all computers
+    like the mellissa virus, but deletes itself after it's
+    been on the computer for a few months. It does nothing
+    more than make these internet searches, so people shouldn't
+    even know they have a virus. By the time they go looking
+    for something, the virus has deleted itself.
+    
+    Once everyone is on the NSA watch list, no one will
+    be on the NSA watchlist.
+    
+    For legal reasons I need to say that I am very busy working
+    on a fractal auto tiling engine and I don't have the time
+    to make anything like this. And when it eventually happens
+    I am not the one who made it.
+    
+50. A chat client that intercepts facebook and bi-passes
+    there community standards by making posts with keywords.
+    
+    Phrases are written in square brackets.
+    Say: [nice guy] and that would be decoded as
+    the word... I can't say it on twitch...
+    I'll spell it out for you. I... N... C... E... L...
+    
+51. Speaking on banned words. I think my kickstarter got
+    auto rejected because I put the phrase "learn to code"
+    in one of my reward teirs. It got rejected before
+    I had even submitted it. No joke.
+    
+    But seriously, if anyone wants to learn to code,
+    I will teach you.
+    
+    They say "no one wants to work". I think that is bullshit.
+    People just don't want to do meaningless horrible painful
+    jobs. I am going to go stand on the corner with a sign
+    that says "Will code for 3/hour." I bet no one will
+    call or email me. 
+    
+    Yet there is a worker shortage...
+    
+    No... There is a shortage of good jobs that workers
+    want to work.
+    
+52. Yin & Yang Roomba Gods.
+    We have two roombas in a level.
+    One of those roombas lays small 3x3 cross mines.
+    The other roomba lays small 3x3 matter mines.
+    
+    Matter mines instantiate geometry when they explode.
+    While normal mines destroy geometry when they explode.
+    
+    The two roomba gods Yin & Yang are invincible.
+    
+    We watch them wander the level and see if any
+    interesting patterns emerge. Basically like...
+    an game-ai driven cellular atomata simulation.
+    
+53. A scary movie about mice with apposable thumbs.
+    Think about it... A swarm of mice with little
+    tiny knives comming after you.
+    
+    Grandma: "Mice With Apposable Thumbs" is too
+    wordy. You need something more catchy.
+    
+    Me: 1000 Menancing Mice?
+    
+    Scenario: You go out to pick blueberries with friends 
+    when you are attacked by a swarm of mice with machetes.
+    You barricade yourself in the car. You try to drive
+    away, but they cut your fuel line. You sit in the car
+    for a few days but begin to get hungry. There are
+    blueberry bushes right outside the car, so you are
+    tempted to just go out for a bit and pick some and
+    hop back in the car. And of course, that is a big
+    mistake and it's an abush and this is the part where
+    the most annoying person in the film dies.
+    
+54. I found a pile of rocks by a lighthouse. I wonder who
+    put them there. Maybe it is a dog grave. Grandma says
+    not to disturb it because dogs can haunt to.
+    
+    There is one way to get rid of dog hauntings though.
+    You have to take a stick and tie a lead weight to it.
+    Then you throw that stick in the ocean. Ghost dog will
+    go to the bottom of the ocean never to return.
+    
+55. It is illegal to mint your own money. Say you've got a
+    surf shop. You have surf tokens people can give you for
+    discounts. The coffee shop next door starts accepting
+    surf shop tokens. You give the coffee shop a token,
+    and they will give you an expensive 5 dollar cup of
+    coffee... The burger guy next door was at the surf shop.
+    He want's some coffee... he gives the barista a token
+    and BAM! He get's coffee. Excellent. What could go wrong?
+    
+    The burger joint, knowing the tokens are good for a 5 dollar
+    cup of coffee will now accept surf tokens in exchange for
+    a 5 dollar burger.
+    
+    Great. Now the surf token can buy burgers and cofee.
+    
+    Eventually more and more businesses around the surf shop
+    start trading with these tokens until every day people
+    use these tokens in lew of cash...
+    
+    And thats when things go wrong. Surf shop dude is now in
+    federal prison for minting his own currency.
+    
+    So how do you not accidentially end up in federal prison?
+    Easy... Use chucky cheese tokens. That way the feds put
+    the CEO of chucky cheese in prison instead of you.
+    
+    Which leads me to idea 56...
+    
+56. Chuck Bar. We are next door to chucky cheese.
+    Come slip away for a stiff alcoholic drink.
+    We accept chucky cheese tokens.
+    
+57. I think I want to get a trench coat and sell my wares
+    on the streets of ann arbor. I am thinking... A trench
+    coat full of USB sticks. Why buy from me? Because
+    you need a USB stick now, not 5 minutes later after
+    you walk to wallgreens.
+    
+    Or... Or... I could sell coffee... Viles of coffee...
+    I'll make expresso... And then I will boil it down
+    until it is super concentrated... I am thinking of 
+    two possible marketing strategies.
+    
+    1. Strong as cocaine coffee
+    2. Half the lethal does coffee
+       Gauranteed to kill you if you drink two.
+       
+    I am not sure of the legallity of either. But I wonder
+    which one people would be the most receptive to. I am 
+    thinking "strong as cocaine coffee" is the safer bet.
+    Because if you say "Half the lethal dose coffee" you know
+    some frat bro is going to drink two on a bet or something...
+    And then he's going to die, because I am no liar. I will
+    make sure that my concentrated vile of expresso 
+    contains exactly 5 grams. (NOT milligrams, GRAMS)
+    of caffine. 10 grams will kill you.
+    
+58. Another money making idea:
+    Let's get gumball machines and put teabags in them.
+    Then make a place like starbucks, but it is buffet
+    style. You do it all yourself. Low maintenance.
+    No need for a chashier. Possibly 10 years too late
+    as everyone uses credit cards these days.
+    
+    But... We would also accept chucky cheese tokens.
+    
+59. Idea: Cooking show where we make soup. But people call
+    in and tell us what to put in the soup. However, we all
+    know where that is going to go... People are going to
+    make use put horrible things in that soup. Horrible
+    disgusting things. So we make two soups. A good soup
+    and an evil soup. Bad recommendations go in the evil
+    soup. I will drink the good soup for free, but 100
+    dollars to eat the evil soup.
+    
+60. Idea: My twitch stream should just be a black screen
+    with my real phone number. Minimum viable product.
+    You call in, but I don't put you on speakerphone or
+    connect the aux jack. I mean... Don't want you to say
+    anything on air to get me banned. I'll do that myself
+    thankyou.
+    
+    Also, my phone number being on screen 100% of time will
+    make the twitch stream stand out from other streams
+    when people are organically browsing twitch streams.
+    
+    
     
